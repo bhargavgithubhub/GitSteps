@@ -1,0 +1,181 @@
+[33mcommit 731351512612d973f67ae4f35e4c846425c529ab[m[33m ([m[1;36mHEAD -> [m[1;32mBrc1[m[33m, [m[1;31morigin/Brc1[m[33m)[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Fri Aug 26 19:17:22 2022 +0530
+
+    fetch-push
+
+[33mcommit 028d8e3da1b848759f85678d89b3985adbd1a1ea[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Feature2[m[33m, [m[1;31morigin/BRANCH1[m[33m)[m
+Merge: 492dba9 fd8f67f
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:41:19 2022 +0530
+
+    Merge branch 'master' of https://github.com/bhargavgithubhub/GitSteps
+
+[33mcommit 492dba958ffde9ce188287da45d394cb2e8df2b0[m
+Merge: b13d5a0 20f6a07
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:40:39 2022 +0530
+
+    Merge branch 'feature1'
+
+[33mcommit b13d5a07fcab86903611bccdc2cb887e0746adf6[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:39:17 2022 +0530
+
+    message8989989
+
+[33mcommit fd8f67f73d6ddc24029827a2731fc8c7051b82e5[m
+Merge: e4bdfff 20f6a07
+Author: bhargavgithubhub <65901636+bhargavgithubhub@users.noreply.github.com>
+Date:   Thu Jul 21 17:37:53 2022 +0530
+
+    Merge pull request #3 from bhargavgithubhub/feature1
+    
+    feture898
+
+[33mcommit 20f6a070105fe44c183d1b6d640255a2aa52d7c6[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:36:41 2022 +0530
+
+    feture898
+
+[33mcommit e4bdfff68af0ddd5a37b4dc933c459a22de02ce1[m
+Merge: 6eb363d fd807da
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:33:05 2022 +0530
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+[33mcommit 6eb363d2e6d5bf7506edac3d2b317eb01381b661[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:27:17 2022 +0530
+
+    MS$%
+
+[33mcommit fd807da5c913e5464aa9137c169c6c9d8f474aeb[m
+Merge: a96adb7 799cccd
+Author: bhargavgithubhub <65901636+bhargavgithubhub@users.noreply.github.com>
+Date:   Thu Jul 21 17:25:59 2022 +0530
+
+    Merge pull request #2 from bhargavgithubhub/feature1
+    
+    FT1
+
+[33mcommit 799cccd9f4bdb5de57de266f695f0e0a1500651f[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:24:54 2022 +0530
+
+    FT1
+
+[33mcommit a96adb76cbb11f776a7c631fc4e1cb41b72441c9[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:23:30 2022 +0530
+
+    MS123
+
+[33mcommit ca3f3a8b18d3c8ccd6a023e8191c0ccb722ed79a[m
+Merge: e14f8bf fab350a
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:22:24 2022 +0530
+
+    Merge branch 'master' of https://github.com/bhargavgithubhub/GitSteps
+
+[33mcommit e14f8bf45ca6e516eeecdcc92a03c81e2eace97b[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:20:00 2022 +0530
+
+    MS1
+
+[33mcommit fab350ae9c4571af8d804d7d9c68de3d43f35898[m
+Merge: fdf4979 3d29b80
+Author: bhargavgithubhub <65901636+bhargavgithubhub@users.noreply.github.com>
+Date:   Thu Jul 21 17:16:38 2022 +0530
+
+    Merge pull request #1 from bhargavgithubhub/feature1
+    
+    Feature1
+
+[33mcommit 3d29b80a526dd7279910fe6fa5fc677335f45100[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 17:08:25 2022 +0530
+
+    FeatureBranch1
+
+[33mcommit 4c0ce4562b61617f8f89aaabed11a136ae54b2cc[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 16:47:08 2022 +0530
+
+    newfeatureCommit
+
+[33mcommit fdf497918a603900f25519c10a0668a1465c6f0f[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 16:45:24 2022 +0530
+
+    newMaster1
+
+[33mcommit 3f4971a99ae6b32100947179ee10bcd8e3227635[m
+Merge: f80ddc7 0f5670a
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 16:39:50 2022 +0530
+
+    First Merge branch 'master' into feature1
+
+[33mcommit f80ddc735bf0e49b03aa581595949a6bea2cd65d[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 16:39:09 2022 +0530
+
+    featureCommit
+
+[33mcommit 0f5670a3b3695ca97bafd50307a9d7b199bdc504[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 16:36:40 2022 +0530
+
+    master1
+
+[33mcommit 696a154bfdea9fdb39b699e371d8b05533fb3b06[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:47:31 2022 +0530
+
+    message1
+
+[33mcommit 9093ac4902fbb4f50d1bf912891e42ad664258f6[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:35:57 2022 +0530
+
+    reverting from Remote
+    
+    This reverts commit 2bee29c6f6bb76a44c6c4b7445628cc23f404c04.
+
+[33mcommit 2bee29c6f6bb76a44c6c4b7445628cc23f404c04[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:29:47 2022 +0530
+
+    message1
+
+[33mcommit 2f9acbc0c4f160f3d1657f654b5d54b4b01313b1[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:16:43 2022 +0530
+
+    Reverting one............Revert "commit1"
+    
+    This reverts commit ef1f110b1ac0c38cbe6c79a6fd4d6f0705447792.
+
+[33mcommit ef1f110b1ac0c38cbe6c79a6fd4d6f0705447792[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:15:41 2022 +0530
+
+    commit1
+
+[33mcommit c1d4a4740372afc1a533f4da4980437db721a728[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:06:25 2022 +0530
+
+    RevertOne Revert "First!"
+    
+    This reverts commit 2113a62b09cd7f6bec182b2271b4781a14143989.
+
+[33mcommit 2113a62b09cd7f6bec182b2271b4781a14143989[m
+Author: Bhargavk <bhargav.remote@gmail.com>
+Date:   Thu Jul 21 12:03:23 2022 +0530
+
+    First!
